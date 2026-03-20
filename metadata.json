@@ -1,0 +1,5 @@
+{
+  "name": "MediGuard AI",
+  "description": "A production-ready medical error prevention system using a hybrid Rule Engine and AI architecture.",
+  "requestFramePermissions": []
+}
